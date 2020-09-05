@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.contact{
+   
+   background: url(https://cdn.home-designing.com/wp-content/uploads/2016/10/cute-low-bed-designs.jpg);
+   background-repeat: none;
+   background-size: cover;
+   height: 500px;
+}
+.dark{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    height: 500px;
+    width: 100%;
+    left: 0;
+    padding-left: 30%;
+}
+.text{
+    padding-top: 250px;
+
+}
+.rights{
+    padding-left: 500px;
+}
+.blog{
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.test{
+    margin-left:400px;
+}
